@@ -1,22 +1,18 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      5.0004,
-      59.9995
-    ]
-  },
   "properties": {
-    "meta": {
-      "updated_at": "2021-03-26T09:13:36Z",
-      "units": {
-        "sea_surface_wave_from_direction": "degrees",
-        "sea_surface_wave_height": "m",
-        "sea_water_speed": "m/s",
-        "sea_water_temperature": "celsius",
-        "sea_water_to_direction": "degrees"
-      }
+    "units": {
+      "navn": "strand_navn"
+      "temperatur": "celcius"
+      "lat": "degree"
+      "lon": "degree"
     }
   }
+  "strender": [
+    {
+      "navn": "Her",
+      "temperatur": 6.0
+      "lat": 60
+      "lon": 5
+    }
+  ]
 }
