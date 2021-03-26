@@ -1,17 +1,17 @@
 {
   "properties": {
     "units": {
-      "navn": "strand_navn"
-      "temperatur": "celcius"
-      "lat": "degree"
+      "navn": "strand_navn",
+      "temperatur": "celcius",
+      "lat": "degree",
       "lon": "degree"
     }
   },
   "strender": [
     {
       "navn": "Her",
-      "temperatur": 6.0
-      "lat": 60
+      "temperatur": 6.0,
+      "lat": 60,
       "lon": 5
     }
   ]
